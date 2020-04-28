@@ -1,4 +1,4 @@
-Scripts for producing the OMTF plots for the L1 TDR. Initial setup before github remote by @sesanche.
+Scripts for producing the OMTF plots for the L1 TDR. Initial setup before github remote by @sesanche. Required packages are included in any recent (> 10_6_X) cmssw release.
 
 All plots are produced in two steps to avoid needlessly repeating the initial loading for minor aesthetic changes:
 
